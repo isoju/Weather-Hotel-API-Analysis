@@ -1,0 +1,11 @@
+3 observable trends/analyses
+
+1) Max temperature is higher in cities closer to the equator than those further 
+from the equator.
+
+2) According to the data retrieved, humidity seems to be constant and high 
+no matter where the city is located on the world map, with a trend nearing 80% humidity.
+
+3) According to the data retrieved, there cannot be a general ultimate conclusion when 
+observing the data pertaining to the relationship between latitude and cloudiness. It
+seems to be a case-by-case scenario, and hence, no trend can be observed at this time. 
