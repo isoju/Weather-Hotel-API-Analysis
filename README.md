@@ -1,4 +1,4 @@
-# Calling Weather API
+# Google Maps and Weather API
 
 ![Equator](Images/equatorsign.png)
 
